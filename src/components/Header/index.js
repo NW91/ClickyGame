@@ -11,10 +11,10 @@ function Header() {
   
   
               <h2>
-                  Click on each character, but don't hit any duplicates, or you'll lose this game!
+                  Click on each gem, but try not to hit any duplicates otherwise you'll lose the game!
               </h2>
               <br />
-              <a className="btn btn-primary btn-lg" href="https://bryanrkelley.github.io/Basic-Portfolio/" role="button"
+              <a className="btn btn-primary btn-lg" href="https://github.com/NW91" role="button"
                   // eslint-disable-next-line react/jsx-no-target-blank
                   target="_blank">Main Page</a>
           </div>
