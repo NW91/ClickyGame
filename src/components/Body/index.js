@@ -41,7 +41,7 @@ function randomizePictures(array) {
         this.setState({ topScore: newScore });
       }
       else if (newScore === 12) {
-        this.setState({ rightWrong: "You win!" });
+        this.setState({ rightWrong: "You've Won!" });
       }
       this.handleShuffle();
     };
@@ -50,7 +50,7 @@ function randomizePictures(array) {
       this.setState({
         currentScore: 0,
         topScore: this.state.topScore,
-        rightWrong: "Sashay away!",
+        rightWrong: "Try Again!",
         clicked: []
       });
       this.handleShuffle();
@@ -68,7 +68,7 @@ function randomizePictures(array) {
               <div className="panel panel-default">
     
                 <Nav
-                title="Drag Queen Memory Game"
+                title="Crystal Memory Game"
                 score={this.state.currentScore}
                 topScore={this.state.topScore}
                 rightWrong={this.state.rightWrong}
