@@ -16,7 +16,7 @@ function Header() {
               <br />
               <a className="btn btn-primary btn-lg" href="https://github.com/NW91" role="button"
                   // eslint-disable-next-line react/jsx-no-target-blank
-                  target="_blank">Main Page</a>
+                  target="_blank">Github Here</a>
           </div>
       </div>
       <div className="col-sm-1"></div>
