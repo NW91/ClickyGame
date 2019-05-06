@@ -11,7 +11,7 @@ function Header() {
   
   
               <h2>
-                  A rose by any other name would smell just as sweet. To start the fun begin my clicking on any rose. But try not to hit any duplicates otherwise you'll lose the game!
+                  A rose by any other name would smell just as sweet. Test your memory by starting the fun with clicking on any particular rose. But try not click the same rose twice in a row otherwise you'll lose the game!
               </h2>
               <br />
               <a className="btn btn-primary btn-lg" href="https://github.com/NW91" role="button"
