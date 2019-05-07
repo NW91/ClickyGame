@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage":"https://NW91.github.io/ClickyGame",
+  "homepage":"https://nw91.github.io/ClickyGame",
   "eslintConfig": {
     "extends": "react-app"
   },
