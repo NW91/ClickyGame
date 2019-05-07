@@ -3,6 +3,7 @@
 Download the game and hit NPM start to run this memory game on localhost:3000. App was made using React.
 
 Deployment
+<br>
 -Site can be viewed here React Game
 
 Instructions
