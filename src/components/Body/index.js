@@ -68,7 +68,7 @@ function randomizePictures(array) {
               <div className="panel panel-default">
     
                 <Nav
-                title="The Rose Memory Game!"
+                title="Rose Memory Game!"
                 score={this.state.currentScore}
                 topScore={this.state.topScore}
                 rightWrong={this.state.rightWrong}
