@@ -22,4 +22,4 @@ Instructions:
 <br>
 -But to make things trickier, the rose cards will re-shuffle around after each click.
 
-https://nw91.github.io/ClickyGame/
+https://nw91.github.io/ClickyGame/index.html
